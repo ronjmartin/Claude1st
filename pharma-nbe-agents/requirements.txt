@@ -1,0 +1,24 @@
+# Core AI/Agent dependencies
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+
+# Data analysis (you're familiar with these!)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API and web requests
+httpx>=0.27.0
+requests>=2.31.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Excel/CSV handling for CRM data
+openpyxl>=3.1.0
+
+# Visualization for dashboards
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Testing
+pytest>=7.4.0
