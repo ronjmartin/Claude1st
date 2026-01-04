@@ -1,0 +1,501 @@
+interaction_id,hcp_id,product_id,date,interaction_type,duration_minutes,outcome,samples_provided,rep_id,sentiment_score,topics_discussed
+INT0001,HCP033,NBE004,2024-02-28,Office Visit,30,Sample Requested,0,REP019,0.74,"Efficacy,Safety"
+INT0002,HCP020,NBE002,2024-10-15,Email,10,Neutral,0,REP018,0.84,Reimbursement
+INT0003,HCP077,NBE002,2024-09-24,Virtual Meeting,33,Sample Requested,0,REP019,0.99,Patient Selection
+INT0004,HCP073,NBE001,2024-11-08,Office Visit,53,Neutral,15,REP007,0.49,"Efficacy,Safety"
+INT0005,HCP021,NBE002,2024-03-29,Conference,9,Neutral,0,REP014,0.62,Reimbursement
+INT0006,HCP061,NBE003,2024-01-17,Phone Call,23,Needs Follow-up,15,REP015,0.35,"Dosing,Administration"
+INT0007,HCP034,NBE002,2024-08-05,Office Visit,39,Neutral,15,REP005,0.94,"Dosing,Administration"
+INT0008,HCP010,NBE001,2024-03-25,Email,43,Needs Follow-up,5,REP004,0.63,Patient Selection
+INT0009,HCP090,NBE004,2024-05-19,Conference,39,Sample Requested,5,REP003,0.72,Clinical Trial Results
+INT0010,HCP095,NBE003,2024-11-05,Email,6,Positive,0,REP022,0.89,Reimbursement
+INT0011,HCP076,NBE001,2024-12-10,Email,41,Positive,0,REP016,0.66,Clinical Trial Results
+INT0012,HCP036,NBE002,2024-10-26,Virtual Meeting,45,Sample Requested,0,REP016,0.54,Patient Selection
+INT0013,HCP042,NBE001,2024-03-23,Email,31,Sample Requested,0,REP022,0.96,Reimbursement
+INT0014,HCP005,NBE004,2024-02-15,Email,21,Needs Follow-up,0,REP025,0.58,Reimbursement
+INT0015,HCP001,NBE004,2024-07-30,Office Visit,17,Needs Follow-up,10,REP025,0.65,Clinical Trial Results
+INT0016,HCP098,NBE001,2024-04-14,Email,40,Neutral,0,REP015,0.92,Clinical Trial Results
+INT0017,HCP016,NBE001,2024-11-18,Conference,56,Neutral,15,REP006,0.52,"Efficacy,Safety"
+INT0018,HCP071,NBE004,2024-02-17,Phone Call,58,Positive,5,REP004,0.75,"Dosing,Administration"
+INT0019,HCP064,NBE003,2024-09-17,Email,31,Sample Requested,5,REP008,0.62,"Dosing,Administration"
+INT0020,HCP050,NBE002,2024-11-02,Conference,52,Neutral,0,REP009,0.84,Clinical Trial Results
+INT0021,HCP044,NBE003,2024-01-02,Email,51,Needs Follow-up,10,REP019,1.0,Clinical Trial Results
+INT0022,HCP020,NBE004,2024-10-02,Virtual Meeting,27,Needs Follow-up,10,REP025,0.68,Clinical Trial Results
+INT0023,HCP042,NBE002,2024-12-23,Phone Call,41,Sample Requested,0,REP025,0.59,Patient Selection
+INT0024,HCP096,NBE004,2024-12-27,Virtual Meeting,29,Neutral,5,REP002,0.39,Reimbursement
+INT0025,HCP043,NBE001,2024-08-13,Office Visit,38,Sample Requested,0,REP024,0.4,"Dosing,Administration"
+INT0026,HCP010,NBE004,2024-05-15,Email,44,Sample Requested,15,REP003,0.9,Reimbursement
+INT0027,HCP049,NBE003,2024-11-16,Virtual Meeting,60,Positive,10,REP003,0.46,Patient Selection
+INT0028,HCP030,NBE001,2024-08-10,Office Visit,53,Positive,5,REP006,0.79,"Efficacy,Safety"
+INT0029,HCP006,NBE003,2024-01-29,Email,27,Needs Follow-up,5,REP005,0.47,Clinical Trial Results
+INT0030,HCP073,NBE002,2024-03-28,Phone Call,10,Sample Requested,10,REP022,0.47,Reimbursement
+INT0031,HCP019,NBE002,2024-08-24,Email,34,Needs Follow-up,15,REP001,0.93,Clinical Trial Results
+INT0032,HCP037,NBE002,2024-02-07,Virtual Meeting,27,Needs Follow-up,15,REP014,0.78,Clinical Trial Results
+INT0033,HCP039,NBE002,2024-07-15,Virtual Meeting,11,Neutral,5,REP019,0.55,Patient Selection
+INT0034,HCP090,NBE003,2024-01-12,Virtual Meeting,22,Positive,10,REP022,0.84,"Efficacy,Safety"
+INT0035,HCP078,NBE004,2024-05-26,Phone Call,43,Needs Follow-up,0,REP021,0.43,Patient Selection
+INT0036,HCP087,NBE002,2024-11-17,Office Visit,45,Positive,0,REP015,0.32,Patient Selection
+INT0037,HCP094,NBE002,2024-02-16,Email,25,Sample Requested,0,REP007,0.39,Reimbursement
+INT0038,HCP047,NBE003,2024-03-25,Email,57,Sample Requested,0,REP024,0.91,"Efficacy,Safety"
+INT0039,HCP060,NBE001,2024-03-13,Phone Call,60,Sample Requested,10,REP012,0.36,Clinical Trial Results
+INT0040,HCP002,NBE003,2024-10-01,Office Visit,34,Needs Follow-up,15,REP024,0.77,Reimbursement
+INT0041,HCP049,NBE003,2024-02-25,Phone Call,35,Positive,10,REP018,0.53,Reimbursement
+INT0042,HCP029,NBE001,2024-11-21,Virtual Meeting,49,Needs Follow-up,15,REP014,0.38,"Efficacy,Safety"
+INT0043,HCP005,NBE003,2024-09-09,Office Visit,11,Neutral,10,REP005,0.57,Patient Selection
+INT0044,HCP086,NBE004,2024-10-27,Phone Call,31,Positive,5,REP020,0.59,Patient Selection
+INT0045,HCP005,NBE003,2024-04-21,Virtual Meeting,33,Neutral,0,REP004,0.99,Patient Selection
+INT0046,HCP070,NBE003,2024-02-01,Virtual Meeting,22,Neutral,0,REP015,0.36,"Dosing,Administration"
+INT0047,HCP083,NBE001,2024-01-26,Email,20,Neutral,10,REP007,0.35,Reimbursement
+INT0048,HCP027,NBE002,2024-04-29,Email,54,Neutral,10,REP001,0.49,"Dosing,Administration"
+INT0049,HCP017,NBE003,2024-03-30,Office Visit,47,Positive,0,REP001,0.55,"Dosing,Administration"
+INT0050,HCP076,NBE003,2024-01-09,Phone Call,21,Positive,0,REP024,0.59,"Efficacy,Safety"
+INT0051,HCP096,NBE001,2024-08-31,Virtual Meeting,54,Needs Follow-up,10,REP019,0.38,Reimbursement
+INT0052,HCP029,NBE001,2024-12-03,Conference,24,Sample Requested,15,REP001,0.34,Clinical Trial Results
+INT0053,HCP052,NBE004,2024-12-17,Office Visit,36,Sample Requested,0,REP003,0.53,"Dosing,Administration"
+INT0054,HCP009,NBE002,2024-05-20,Conference,45,Needs Follow-up,5,REP020,0.67,Clinical Trial Results
+INT0055,HCP065,NBE004,2024-02-20,Office Visit,59,Neutral,5,REP015,0.92,Clinical Trial Results
+INT0056,HCP044,NBE004,2024-07-23,Virtual Meeting,51,Positive,0,REP014,0.52,Patient Selection
+INT0057,HCP048,NBE002,2024-12-17,Virtual Meeting,9,Positive,0,REP003,0.6,Patient Selection
+INT0058,HCP017,NBE001,2024-10-27,Conference,40,Needs Follow-up,15,REP004,0.59,Clinical Trial Results
+INT0059,HCP093,NBE001,2024-05-27,Conference,24,Needs Follow-up,0,REP019,0.66,"Dosing,Administration"
+INT0060,HCP085,NBE004,2024-04-24,Office Visit,27,Needs Follow-up,0,REP025,0.49,"Dosing,Administration"
+INT0061,HCP055,NBE001,2024-11-07,Email,6,Neutral,0,REP023,0.83,Patient Selection
+INT0062,HCP045,NBE001,2024-04-02,Phone Call,41,Sample Requested,0,REP005,0.82,"Efficacy,Safety"
+INT0063,HCP012,NBE002,2024-07-11,Virtual Meeting,34,Needs Follow-up,0,REP012,0.52,Patient Selection
+INT0064,HCP100,NBE001,2024-01-27,Phone Call,15,Positive,15,REP003,0.49,Clinical Trial Results
+INT0065,HCP063,NBE004,2024-07-31,Email,18,Positive,0,REP014,0.38,Reimbursement
+INT0066,HCP063,NBE003,2024-01-24,Phone Call,30,Positive,0,REP007,0.51,"Dosing,Administration"
+INT0067,HCP099,NBE002,2024-05-10,Email,25,Positive,0,REP016,0.82,"Dosing,Administration"
+INT0068,HCP017,NBE004,2024-09-29,Phone Call,37,Needs Follow-up,0,REP013,0.9,"Efficacy,Safety"
+INT0069,HCP056,NBE001,2024-08-23,Office Visit,60,Needs Follow-up,10,REP014,0.7,Clinical Trial Results
+INT0070,HCP038,NBE001,2024-07-26,Office Visit,25,Neutral,10,REP015,0.88,Patient Selection
+INT0071,HCP012,NBE004,2024-02-24,Phone Call,32,Sample Requested,10,REP003,0.58,Patient Selection
+INT0072,HCP096,NBE003,2024-04-23,Email,54,Neutral,0,REP017,0.74,Reimbursement
+INT0073,HCP066,NBE002,2024-06-27,Email,51,Neutral,0,REP004,0.4,"Dosing,Administration"
+INT0074,HCP023,NBE002,2024-12-01,Office Visit,16,Sample Requested,5,REP025,0.69,Reimbursement
+INT0075,HCP058,NBE003,2024-11-17,Email,14,Sample Requested,0,REP016,0.61,Patient Selection
+INT0076,HCP036,NBE001,2024-06-29,Conference,9,Needs Follow-up,5,REP015,0.33,Patient Selection
+INT0077,HCP037,NBE001,2024-11-26,Office Visit,44,Sample Requested,5,REP019,0.69,"Efficacy,Safety"
+INT0078,HCP058,NBE002,2024-06-13,Conference,35,Neutral,0,REP015,0.37,Patient Selection
+INT0079,HCP092,NBE001,2024-09-15,Phone Call,7,Neutral,15,REP015,0.99,Reimbursement
+INT0080,HCP067,NBE002,2024-07-05,Email,23,Sample Requested,5,REP025,0.54,Reimbursement
+INT0081,HCP007,NBE003,2024-02-03,Email,11,Sample Requested,0,REP009,0.81,Reimbursement
+INT0082,HCP020,NBE003,2024-02-11,Conference,47,Neutral,0,REP010,0.98,Clinical Trial Results
+INT0083,HCP017,NBE001,2024-06-07,Conference,29,Needs Follow-up,0,REP022,0.79,Reimbursement
+INT0084,HCP012,NBE004,2024-09-17,Email,6,Needs Follow-up,0,REP006,0.97,Patient Selection
+INT0085,HCP099,NBE004,2024-04-08,Phone Call,13,Neutral,0,REP010,0.89,"Efficacy,Safety"
+INT0086,HCP065,NBE001,2024-12-04,Email,54,Neutral,10,REP013,0.41,"Dosing,Administration"
+INT0087,HCP089,NBE002,2024-08-12,Office Visit,31,Needs Follow-up,15,REP024,0.47,Clinical Trial Results
+INT0088,HCP079,NBE003,2024-08-17,Phone Call,39,Neutral,0,REP016,0.93,"Dosing,Administration"
+INT0089,HCP048,NBE004,2024-08-24,Email,54,Sample Requested,10,REP017,0.59,"Dosing,Administration"
+INT0090,HCP026,NBE002,2024-05-08,Office Visit,46,Sample Requested,0,REP018,0.95,Reimbursement
+INT0091,HCP016,NBE003,2024-02-12,Phone Call,22,Sample Requested,10,REP005,0.88,"Efficacy,Safety"
+INT0092,HCP029,NBE004,2024-06-27,Office Visit,31,Positive,5,REP017,0.56,Clinical Trial Results
+INT0093,HCP011,NBE003,2024-04-24,Office Visit,25,Positive,15,REP021,0.53,"Dosing,Administration"
+INT0094,HCP018,NBE001,2024-05-26,Virtual Meeting,49,Neutral,15,REP016,0.61,"Efficacy,Safety"
+INT0095,HCP011,NBE001,2024-05-11,Phone Call,58,Neutral,10,REP024,0.73,Clinical Trial Results
+INT0096,HCP015,NBE003,2024-05-01,Email,12,Positive,0,REP014,0.75,Reimbursement
+INT0097,HCP059,NBE001,2024-02-26,Virtual Meeting,43,Positive,15,REP017,0.7,"Dosing,Administration"
+INT0098,HCP038,NBE004,2024-01-01,Conference,27,Neutral,10,REP014,0.43,"Efficacy,Safety"
+INT0099,HCP068,NBE003,2024-02-04,Conference,39,Positive,5,REP016,0.33,Clinical Trial Results
+INT0100,HCP048,NBE003,2024-01-09,Email,55,Positive,0,REP008,0.81,"Efficacy,Safety"
+INT0101,HCP099,NBE003,2024-03-09,Office Visit,27,Needs Follow-up,15,REP006,0.88,Clinical Trial Results
+INT0102,HCP090,NBE004,2024-11-19,Phone Call,56,Neutral,0,REP023,0.84,Clinical Trial Results
+INT0103,HCP005,NBE003,2024-04-13,Office Visit,55,Neutral,0,REP011,0.95,Reimbursement
+INT0104,HCP051,NBE004,2024-05-09,Office Visit,53,Neutral,0,REP012,0.9,"Efficacy,Safety"
+INT0105,HCP084,NBE003,2024-05-19,Office Visit,56,Needs Follow-up,5,REP013,0.82,Clinical Trial Results
+INT0106,HCP044,NBE002,2024-09-11,Virtual Meeting,28,Needs Follow-up,0,REP024,0.6,Clinical Trial Results
+INT0107,HCP078,NBE002,2024-10-06,Email,25,Positive,0,REP011,0.76,Patient Selection
+INT0108,HCP058,NBE004,2024-03-26,Virtual Meeting,27,Sample Requested,0,REP024,0.91,Patient Selection
+INT0109,HCP079,NBE004,2024-05-20,Office Visit,9,Sample Requested,0,REP017,0.86,"Dosing,Administration"
+INT0110,HCP004,NBE002,2024-11-07,Virtual Meeting,7,Neutral,0,REP008,0.84,Patient Selection
+INT0111,HCP047,NBE004,2024-10-17,Office Visit,43,Neutral,15,REP015,0.96,Patient Selection
+INT0112,HCP057,NBE001,2024-10-20,Phone Call,38,Needs Follow-up,5,REP011,0.75,"Dosing,Administration"
+INT0113,HCP015,NBE001,2024-04-05,Virtual Meeting,38,Sample Requested,10,REP004,0.48,Patient Selection
+INT0114,HCP091,NBE004,2024-04-19,Conference,23,Sample Requested,0,REP004,0.4,"Efficacy,Safety"
+INT0115,HCP058,NBE002,2024-12-31,Virtual Meeting,10,Needs Follow-up,15,REP012,0.8,Reimbursement
+INT0116,HCP070,NBE003,2024-06-02,Phone Call,50,Neutral,0,REP017,0.46,"Dosing,Administration"
+INT0117,HCP018,NBE002,2024-09-09,Office Visit,28,Needs Follow-up,5,REP018,0.39,"Efficacy,Safety"
+INT0118,HCP009,NBE003,2024-07-22,Virtual Meeting,38,Sample Requested,5,REP019,0.35,Patient Selection
+INT0119,HCP083,NBE001,2024-08-18,Virtual Meeting,48,Needs Follow-up,0,REP025,0.69,Reimbursement
+INT0120,HCP024,NBE002,2024-08-09,Conference,60,Positive,0,REP017,0.41,"Dosing,Administration"
+INT0121,HCP021,NBE003,2024-12-29,Phone Call,27,Needs Follow-up,0,REP009,0.44,Reimbursement
+INT0122,HCP036,NBE002,2024-11-16,Email,44,Positive,10,REP021,0.42,Reimbursement
+INT0123,HCP020,NBE002,2024-12-03,Conference,51,Needs Follow-up,10,REP002,0.88,"Efficacy,Safety"
+INT0124,HCP011,NBE001,2024-11-24,Conference,21,Neutral,10,REP014,0.73,"Efficacy,Safety"
+INT0125,HCP064,NBE003,2024-11-24,Email,35,Neutral,15,REP013,0.51,"Efficacy,Safety"
+INT0126,HCP089,NBE001,2024-03-21,Virtual Meeting,31,Sample Requested,5,REP007,0.54,"Dosing,Administration"
+INT0127,HCP041,NBE003,2024-06-25,Virtual Meeting,13,Needs Follow-up,10,REP018,0.37,"Dosing,Administration"
+INT0128,HCP060,NBE001,2024-05-16,Virtual Meeting,20,Neutral,0,REP002,0.5,Clinical Trial Results
+INT0129,HCP079,NBE004,2024-05-07,Phone Call,57,Needs Follow-up,10,REP024,0.52,"Dosing,Administration"
+INT0130,HCP064,NBE004,2024-09-12,Email,36,Positive,0,REP013,0.65,"Dosing,Administration"
+INT0131,HCP028,NBE003,2024-01-25,Office Visit,23,Sample Requested,10,REP021,0.77,Patient Selection
+INT0132,HCP069,NBE001,2024-02-25,Virtual Meeting,13,Needs Follow-up,15,REP012,0.83,Patient Selection
+INT0133,HCP006,NBE004,2024-01-27,Conference,40,Neutral,0,REP018,0.5,Clinical Trial Results
+INT0134,HCP065,NBE004,2024-10-08,Email,57,Positive,0,REP004,0.58,Patient Selection
+INT0135,HCP072,NBE003,2024-03-14,Phone Call,43,Sample Requested,10,REP002,0.33,"Dosing,Administration"
+INT0136,HCP092,NBE003,2024-08-30,Conference,34,Neutral,10,REP017,0.4,Reimbursement
+INT0137,HCP041,NBE002,2024-07-20,Conference,52,Needs Follow-up,10,REP011,0.66,Reimbursement
+INT0138,HCP069,NBE004,2024-12-28,Conference,24,Sample Requested,0,REP012,0.53,"Efficacy,Safety"
+INT0139,HCP054,NBE003,2024-12-18,Office Visit,43,Sample Requested,0,REP021,0.85,Reimbursement
+INT0140,HCP074,NBE002,2024-01-27,Conference,35,Neutral,10,REP021,0.8,Clinical Trial Results
+INT0141,HCP019,NBE002,2024-01-17,Conference,49,Positive,0,REP001,0.61,Clinical Trial Results
+INT0142,HCP020,NBE004,2024-12-19,Phone Call,31,Sample Requested,15,REP024,0.34,"Dosing,Administration"
+INT0143,HCP067,NBE002,2024-10-14,Email,47,Sample Requested,10,REP013,0.52,"Dosing,Administration"
+INT0144,HCP059,NBE003,2024-10-06,Email,48,Needs Follow-up,10,REP016,0.43,"Dosing,Administration"
+INT0145,HCP036,NBE003,2024-04-25,Email,54,Needs Follow-up,15,REP007,0.78,Clinical Trial Results
+INT0146,HCP041,NBE004,2024-06-27,Conference,55,Needs Follow-up,0,REP004,0.7,Reimbursement
+INT0147,HCP049,NBE004,2024-06-25,Phone Call,23,Positive,0,REP023,0.36,Clinical Trial Results
+INT0148,HCP084,NBE003,2024-09-02,Phone Call,17,Needs Follow-up,10,REP023,0.49,"Efficacy,Safety"
+INT0149,HCP079,NBE002,2024-05-04,Office Visit,47,Neutral,15,REP008,0.34,Clinical Trial Results
+INT0150,HCP043,NBE004,2024-02-21,Phone Call,5,Neutral,5,REP021,0.95,Clinical Trial Results
+INT0151,HCP062,NBE002,2024-05-27,Email,23,Positive,0,REP021,0.7,Reimbursement
+INT0152,HCP095,NBE001,2024-03-30,Virtual Meeting,58,Neutral,0,REP013,0.85,"Dosing,Administration"
+INT0153,HCP096,NBE003,2024-01-20,Office Visit,24,Positive,0,REP010,0.62,Reimbursement
+INT0154,HCP068,NBE004,2024-03-09,Conference,34,Needs Follow-up,0,REP004,0.53,Clinical Trial Results
+INT0155,HCP083,NBE003,2024-04-05,Office Visit,52,Needs Follow-up,0,REP019,0.77,"Dosing,Administration"
+INT0156,HCP023,NBE004,2024-08-06,Conference,25,Positive,5,REP022,0.37,"Dosing,Administration"
+INT0157,HCP062,NBE003,2024-05-07,Office Visit,21,Sample Requested,0,REP015,0.83,Patient Selection
+INT0158,HCP039,NBE001,2024-05-13,Email,49,Neutral,0,REP022,0.38,Patient Selection
+INT0159,HCP021,NBE004,2024-12-17,Conference,50,Needs Follow-up,15,REP004,0.75,Patient Selection
+INT0160,HCP048,NBE002,2024-04-22,Phone Call,35,Neutral,5,REP024,0.99,Patient Selection
+INT0161,HCP054,NBE004,2024-10-02,Phone Call,53,Neutral,15,REP025,0.72,"Efficacy,Safety"
+INT0162,HCP068,NBE004,2024-09-27,Email,9,Positive,0,REP018,0.93,"Dosing,Administration"
+INT0163,HCP074,NBE002,2024-03-25,Email,59,Sample Requested,0,REP022,0.44,Reimbursement
+INT0164,HCP063,NBE001,2024-09-18,Virtual Meeting,56,Positive,5,REP005,0.66,Clinical Trial Results
+INT0165,HCP073,NBE001,2024-10-13,Virtual Meeting,48,Needs Follow-up,15,REP001,0.58,"Efficacy,Safety"
+INT0166,HCP096,NBE002,2024-10-23,Office Visit,7,Sample Requested,0,REP023,0.34,"Efficacy,Safety"
+INT0167,HCP009,NBE004,2024-01-17,Email,31,Neutral,0,REP025,0.75,Clinical Trial Results
+INT0168,HCP048,NBE004,2024-08-17,Virtual Meeting,29,Positive,15,REP022,0.91,"Dosing,Administration"
+INT0169,HCP084,NBE003,2024-03-01,Phone Call,39,Sample Requested,10,REP005,0.81,"Dosing,Administration"
+INT0170,HCP001,NBE001,2024-06-01,Virtual Meeting,48,Sample Requested,10,REP013,0.88,"Dosing,Administration"
+INT0171,HCP059,NBE003,2024-03-20,Email,17,Positive,0,REP022,0.59,"Efficacy,Safety"
+INT0172,HCP031,NBE002,2024-02-04,Office Visit,43,Positive,5,REP020,0.77,"Efficacy,Safety"
+INT0173,HCP032,NBE001,2024-07-24,Virtual Meeting,19,Neutral,0,REP005,0.65,Patient Selection
+INT0174,HCP030,NBE003,2024-10-22,Conference,54,Needs Follow-up,0,REP010,0.91,Reimbursement
+INT0175,HCP029,NBE004,2024-06-02,Email,8,Neutral,15,REP022,0.6,Clinical Trial Results
+INT0176,HCP007,NBE003,2024-11-25,Virtual Meeting,55,Needs Follow-up,15,REP014,0.59,Patient Selection
+INT0177,HCP049,NBE002,2024-10-02,Virtual Meeting,20,Neutral,0,REP023,0.4,Clinical Trial Results
+INT0178,HCP008,NBE004,2024-08-01,Conference,38,Neutral,5,REP008,0.48,Patient Selection
+INT0179,HCP083,NBE001,2024-08-18,Email,10,Neutral,0,REP009,0.56,Reimbursement
+INT0180,HCP078,NBE001,2024-02-07,Phone Call,56,Neutral,5,REP007,0.91,Patient Selection
+INT0181,HCP039,NBE001,2024-04-18,Phone Call,52,Positive,15,REP025,0.64,"Dosing,Administration"
+INT0182,HCP090,NBE002,2024-07-22,Phone Call,40,Needs Follow-up,0,REP013,0.63,Patient Selection
+INT0183,HCP040,NBE003,2024-07-03,Conference,36,Sample Requested,0,REP024,0.63,Patient Selection
+INT0184,HCP027,NBE003,2024-06-09,Virtual Meeting,7,Neutral,15,REP005,0.31,Reimbursement
+INT0185,HCP075,NBE004,2024-05-31,Phone Call,17,Needs Follow-up,0,REP013,0.7,"Dosing,Administration"
+INT0186,HCP064,NBE003,2024-05-11,Virtual Meeting,51,Sample Requested,5,REP006,0.81,Patient Selection
+INT0187,HCP022,NBE002,2024-10-06,Virtual Meeting,16,Positive,10,REP002,0.89,"Efficacy,Safety"
+INT0188,HCP086,NBE001,2024-01-04,Virtual Meeting,13,Neutral,0,REP023,0.41,"Dosing,Administration"
+INT0189,HCP065,NBE004,2024-07-10,Office Visit,44,Sample Requested,15,REP016,0.31,Reimbursement
+INT0190,HCP071,NBE004,2024-01-07,Office Visit,38,Needs Follow-up,10,REP010,0.31,Clinical Trial Results
+INT0191,HCP023,NBE001,2024-02-19,Conference,14,Neutral,0,REP020,0.67,Patient Selection
+INT0192,HCP035,NBE004,2024-02-10,Email,30,Sample Requested,10,REP008,0.99,"Dosing,Administration"
+INT0193,HCP039,NBE001,2024-11-30,Office Visit,10,Sample Requested,5,REP013,0.69,"Efficacy,Safety"
+INT0194,HCP082,NBE001,2024-12-25,Phone Call,10,Sample Requested,5,REP021,0.85,Reimbursement
+INT0195,HCP013,NBE001,2024-04-27,Phone Call,60,Sample Requested,0,REP002,0.95,Patient Selection
+INT0196,HCP070,NBE001,2024-04-01,Email,6,Neutral,10,REP005,0.83,Clinical Trial Results
+INT0197,HCP010,NBE003,2024-03-24,Conference,20,Sample Requested,15,REP018,0.53,"Dosing,Administration"
+INT0198,HCP089,NBE001,2024-09-13,Email,8,Positive,5,REP008,0.89,Patient Selection
+INT0199,HCP078,NBE004,2024-06-16,Office Visit,45,Needs Follow-up,5,REP016,0.46,Reimbursement
+INT0200,HCP049,NBE004,2024-04-05,Conference,47,Sample Requested,0,REP025,0.73,"Dosing,Administration"
+INT0201,HCP092,NBE001,2024-02-12,Email,14,Sample Requested,15,REP021,0.41,Clinical Trial Results
+INT0202,HCP041,NBE003,2024-02-24,Office Visit,5,Needs Follow-up,5,REP012,0.83,"Efficacy,Safety"
+INT0203,HCP017,NBE001,2024-04-05,Virtual Meeting,33,Sample Requested,0,REP001,0.36,Reimbursement
+INT0204,HCP012,NBE003,2024-07-16,Office Visit,23,Sample Requested,5,REP025,0.36,Reimbursement
+INT0205,HCP032,NBE002,2024-12-16,Virtual Meeting,15,Neutral,0,REP010,0.49,"Dosing,Administration"
+INT0206,HCP009,NBE002,2024-08-10,Email,31,Needs Follow-up,5,REP003,0.55,"Dosing,Administration"
+INT0207,HCP093,NBE004,2024-10-31,Conference,17,Sample Requested,0,REP005,0.51,Clinical Trial Results
+INT0208,HCP043,NBE004,2024-06-17,Virtual Meeting,26,Sample Requested,15,REP020,0.4,Patient Selection
+INT0209,HCP078,NBE002,2024-09-02,Email,16,Sample Requested,0,REP010,0.81,Clinical Trial Results
+INT0210,HCP074,NBE002,2024-06-15,Virtual Meeting,22,Sample Requested,0,REP004,0.95,"Dosing,Administration"
+INT0211,HCP076,NBE002,2024-12-15,Conference,6,Sample Requested,15,REP007,0.61,Patient Selection
+INT0212,HCP089,NBE001,2024-07-28,Virtual Meeting,13,Needs Follow-up,0,REP009,0.76,Clinical Trial Results
+INT0213,HCP049,NBE001,2024-08-17,Conference,35,Sample Requested,10,REP017,0.95,Clinical Trial Results
+INT0214,HCP070,NBE001,2024-07-03,Conference,43,Positive,0,REP025,0.47,Patient Selection
+INT0215,HCP022,NBE001,2024-10-15,Virtual Meeting,53,Needs Follow-up,5,REP004,0.31,Patient Selection
+INT0216,HCP029,NBE002,2024-08-16,Email,30,Sample Requested,15,REP019,0.78,"Dosing,Administration"
+INT0217,HCP045,NBE001,2024-09-04,Office Visit,23,Sample Requested,0,REP004,0.88,"Dosing,Administration"
+INT0218,HCP045,NBE003,2024-06-24,Virtual Meeting,55,Neutral,10,REP016,0.54,"Efficacy,Safety"
+INT0219,HCP057,NBE004,2024-06-12,Office Visit,24,Positive,15,REP004,0.32,Patient Selection
+INT0220,HCP083,NBE001,2024-12-12,Phone Call,52,Neutral,10,REP006,0.69,Patient Selection
+INT0221,HCP072,NBE004,2024-08-24,Phone Call,56,Sample Requested,15,REP006,0.43,Clinical Trial Results
+INT0222,HCP051,NBE001,2024-11-10,Phone Call,33,Sample Requested,5,REP001,0.79,"Dosing,Administration"
+INT0223,HCP036,NBE001,2024-10-22,Office Visit,56,Neutral,0,REP011,0.44,"Efficacy,Safety"
+INT0224,HCP034,NBE004,2024-09-27,Email,43,Sample Requested,10,REP013,0.71,Patient Selection
+INT0225,HCP046,NBE004,2024-11-12,Phone Call,57,Needs Follow-up,10,REP019,0.36,"Dosing,Administration"
+INT0226,HCP041,NBE001,2024-05-02,Email,12,Neutral,0,REP023,0.4,Clinical Trial Results
+INT0227,HCP054,NBE002,2024-10-21,Virtual Meeting,32,Neutral,5,REP021,0.68,"Dosing,Administration"
+INT0228,HCP072,NBE002,2024-09-07,Email,13,Neutral,0,REP015,0.73,Patient Selection
+INT0229,HCP002,NBE004,2024-03-10,Phone Call,57,Sample Requested,10,REP017,0.76,Clinical Trial Results
+INT0230,HCP088,NBE004,2024-07-31,Virtual Meeting,36,Neutral,0,REP019,0.32,"Dosing,Administration"
+INT0231,HCP038,NBE001,2024-05-20,Phone Call,39,Needs Follow-up,0,REP025,0.62,Clinical Trial Results
+INT0232,HCP071,NBE001,2024-10-20,Office Visit,22,Needs Follow-up,10,REP025,0.33,Clinical Trial Results
+INT0233,HCP070,NBE002,2024-08-05,Office Visit,52,Neutral,0,REP002,0.61,Patient Selection
+INT0234,HCP012,NBE004,2024-03-01,Phone Call,18,Needs Follow-up,15,REP020,0.74,"Dosing,Administration"
+INT0235,HCP079,NBE002,2024-04-15,Phone Call,56,Positive,10,REP012,0.67,Reimbursement
+INT0236,HCP069,NBE002,2024-06-14,Email,23,Needs Follow-up,10,REP022,0.87,"Dosing,Administration"
+INT0237,HCP097,NBE004,2024-01-31,Email,60,Neutral,15,REP005,0.47,Patient Selection
+INT0238,HCP032,NBE004,2024-09-07,Phone Call,41,Needs Follow-up,15,REP014,0.56,"Efficacy,Safety"
+INT0239,HCP082,NBE001,2024-07-25,Conference,52,Needs Follow-up,15,REP012,0.62,Clinical Trial Results
+INT0240,HCP042,NBE001,2024-02-17,Virtual Meeting,45,Needs Follow-up,0,REP018,0.58,Clinical Trial Results
+INT0241,HCP028,NBE004,2024-05-17,Email,58,Needs Follow-up,0,REP018,0.7,Reimbursement
+INT0242,HCP063,NBE003,2024-12-15,Office Visit,7,Positive,15,REP015,0.31,"Dosing,Administration"
+INT0243,HCP057,NBE004,2024-01-01,Virtual Meeting,17,Neutral,15,REP010,0.41,Patient Selection
+INT0244,HCP012,NBE003,2024-05-08,Office Visit,28,Neutral,0,REP013,0.74,"Dosing,Administration"
+INT0245,HCP055,NBE001,2024-12-26,Office Visit,5,Neutral,5,REP003,0.39,"Dosing,Administration"
+INT0246,HCP067,NBE004,2024-01-05,Office Visit,49,Needs Follow-up,0,REP014,0.79,Clinical Trial Results
+INT0247,HCP010,NBE002,2024-07-15,Office Visit,51,Positive,0,REP011,0.56,Patient Selection
+INT0248,HCP018,NBE004,2024-03-09,Phone Call,9,Positive,10,REP021,0.41,Patient Selection
+INT0249,HCP093,NBE002,2024-11-17,Phone Call,31,Sample Requested,0,REP003,0.93,"Dosing,Administration"
+INT0250,HCP097,NBE001,2024-10-28,Virtual Meeting,27,Sample Requested,0,REP005,0.47,"Efficacy,Safety"
+INT0251,HCP032,NBE003,2024-12-19,Office Visit,59,Needs Follow-up,0,REP017,0.72,"Dosing,Administration"
+INT0252,HCP096,NBE004,2024-05-31,Office Visit,55,Neutral,5,REP013,0.38,Clinical Trial Results
+INT0253,HCP082,NBE001,2024-09-27,Office Visit,28,Needs Follow-up,0,REP013,0.9,Reimbursement
+INT0254,HCP054,NBE003,2024-10-06,Phone Call,53,Sample Requested,0,REP001,0.71,"Efficacy,Safety"
+INT0255,HCP034,NBE002,2024-01-21,Office Visit,55,Sample Requested,10,REP010,0.74,Reimbursement
+INT0256,HCP099,NBE004,2024-08-04,Virtual Meeting,10,Neutral,0,REP003,0.52,Reimbursement
+INT0257,HCP027,NBE002,2024-10-01,Email,30,Positive,0,REP023,0.61,"Dosing,Administration"
+INT0258,HCP008,NBE002,2024-02-14,Virtual Meeting,12,Sample Requested,10,REP020,0.34,"Dosing,Administration"
+INT0259,HCP016,NBE001,2024-12-28,Phone Call,49,Positive,0,REP016,0.97,Reimbursement
+INT0260,HCP067,NBE003,2024-03-26,Email,13,Needs Follow-up,15,REP004,0.84,"Efficacy,Safety"
+INT0261,HCP043,NBE004,2024-05-19,Conference,9,Needs Follow-up,15,REP019,0.74,Clinical Trial Results
+INT0262,HCP059,NBE003,2024-01-29,Virtual Meeting,59,Neutral,0,REP006,0.48,"Efficacy,Safety"
+INT0263,HCP074,NBE001,2024-04-26,Conference,5,Positive,0,REP008,0.33,Patient Selection
+INT0264,HCP050,NBE002,2024-04-01,Office Visit,40,Sample Requested,0,REP011,0.47,Patient Selection
+INT0265,HCP035,NBE001,2024-10-19,Email,12,Positive,0,REP008,0.86,"Efficacy,Safety"
+INT0266,HCP052,NBE001,2024-08-26,Email,54,Needs Follow-up,0,REP003,0.69,"Efficacy,Safety"
+INT0267,HCP048,NBE002,2024-05-29,Conference,55,Needs Follow-up,15,REP020,0.47,Patient Selection
+INT0268,HCP076,NBE004,2024-04-10,Conference,53,Neutral,0,REP001,0.95,"Efficacy,Safety"
+INT0269,HCP030,NBE003,2024-11-21,Office Visit,26,Positive,15,REP013,0.89,Patient Selection
+INT0270,HCP014,NBE002,2024-09-28,Phone Call,31,Sample Requested,0,REP005,0.8,"Efficacy,Safety"
+INT0271,HCP006,NBE002,2024-09-23,Virtual Meeting,49,Needs Follow-up,5,REP024,0.36,"Efficacy,Safety"
+INT0272,HCP065,NBE002,2024-11-22,Virtual Meeting,9,Positive,5,REP022,0.97,"Dosing,Administration"
+INT0273,HCP038,NBE003,2024-06-10,Virtual Meeting,49,Needs Follow-up,0,REP015,0.49,"Efficacy,Safety"
+INT0274,HCP026,NBE002,2024-10-26,Office Visit,14,Positive,0,REP015,0.63,Clinical Trial Results
+INT0275,HCP016,NBE003,2024-04-16,Virtual Meeting,24,Sample Requested,0,REP004,0.36,Patient Selection
+INT0276,HCP091,NBE001,2024-04-20,Email,14,Positive,15,REP008,0.98,Clinical Trial Results
+INT0277,HCP066,NBE001,2024-12-12,Email,21,Neutral,0,REP013,0.9,Reimbursement
+INT0278,HCP096,NBE002,2024-02-18,Virtual Meeting,11,Neutral,0,REP001,0.34,"Dosing,Administration"
+INT0279,HCP017,NBE002,2024-07-24,Email,48,Positive,10,REP019,0.48,"Efficacy,Safety"
+INT0280,HCP003,NBE001,2024-04-11,Virtual Meeting,56,Neutral,0,REP011,0.39,Clinical Trial Results
+INT0281,HCP007,NBE002,2024-10-20,Virtual Meeting,57,Sample Requested,5,REP001,0.57,Clinical Trial Results
+INT0282,HCP023,NBE003,2024-04-19,Phone Call,22,Needs Follow-up,5,REP005,0.32,Reimbursement
+INT0283,HCP079,NBE002,2024-11-27,Email,36,Sample Requested,10,REP016,0.34,Patient Selection
+INT0284,HCP050,NBE002,2024-08-02,Phone Call,46,Neutral,15,REP018,0.86,Clinical Trial Results
+INT0285,HCP092,NBE003,2024-09-02,Conference,55,Sample Requested,0,REP019,0.65,Clinical Trial Results
+INT0286,HCP035,NBE002,2024-01-14,Email,43,Neutral,0,REP025,0.5,Clinical Trial Results
+INT0287,HCP068,NBE003,2024-10-26,Phone Call,15,Positive,0,REP022,0.47,Reimbursement
+INT0288,HCP095,NBE001,2024-04-22,Conference,59,Sample Requested,0,REP006,0.42,Reimbursement
+INT0289,HCP041,NBE003,2024-10-29,Office Visit,50,Needs Follow-up,10,REP019,0.4,"Dosing,Administration"
+INT0290,HCP064,NBE003,2024-03-30,Virtual Meeting,7,Positive,0,REP008,0.72,"Efficacy,Safety"
+INT0291,HCP068,NBE004,2024-01-01,Email,44,Neutral,0,REP011,0.8,Patient Selection
+INT0292,HCP008,NBE001,2024-03-16,Conference,50,Neutral,0,REP017,0.9,"Efficacy,Safety"
+INT0293,HCP048,NBE004,2024-10-27,Office Visit,26,Needs Follow-up,0,REP005,0.98,Clinical Trial Results
+INT0294,HCP082,NBE004,2024-11-28,Email,16,Needs Follow-up,0,REP022,0.71,"Dosing,Administration"
+INT0295,HCP049,NBE003,2024-12-18,Email,13,Neutral,15,REP001,0.96,Reimbursement
+INT0296,HCP051,NBE001,2024-04-03,Conference,25,Neutral,15,REP019,0.37,Clinical Trial Results
+INT0297,HCP019,NBE003,2024-02-09,Phone Call,27,Needs Follow-up,0,REP021,0.92,"Efficacy,Safety"
+INT0298,HCP091,NBE003,2024-08-16,Office Visit,21,Neutral,0,REP023,0.35,Patient Selection
+INT0299,HCP014,NBE001,2024-01-25,Virtual Meeting,33,Sample Requested,0,REP014,0.65,Clinical Trial Results
+INT0300,HCP045,NBE004,2024-02-21,Virtual Meeting,55,Neutral,0,REP015,0.35,"Efficacy,Safety"
+INT0301,HCP038,NBE001,2024-06-12,Email,11,Positive,0,REP006,0.92,"Dosing,Administration"
+INT0302,HCP094,NBE001,2024-10-07,Office Visit,26,Sample Requested,15,REP001,0.6,"Dosing,Administration"
+INT0303,HCP078,NBE004,2024-03-21,Office Visit,11,Needs Follow-up,0,REP007,0.59,Reimbursement
+INT0304,HCP093,NBE003,2024-12-04,Email,24,Neutral,0,REP002,0.58,Reimbursement
+INT0305,HCP063,NBE002,2024-01-28,Email,5,Sample Requested,0,REP010,0.88,Reimbursement
+INT0306,HCP062,NBE002,2024-02-19,Office Visit,18,Neutral,15,REP010,0.98,Clinical Trial Results
+INT0307,HCP015,NBE003,2024-07-22,Virtual Meeting,36,Needs Follow-up,0,REP021,0.68,"Dosing,Administration"
+INT0308,HCP048,NBE004,2024-07-08,Phone Call,33,Positive,0,REP015,0.63,"Dosing,Administration"
+INT0309,HCP035,NBE001,2024-03-18,Office Visit,10,Needs Follow-up,10,REP014,0.98,Reimbursement
+INT0310,HCP030,NBE001,2024-07-17,Conference,31,Sample Requested,10,REP008,0.63,"Efficacy,Safety"
+INT0311,HCP051,NBE001,2024-09-14,Conference,38,Neutral,0,REP025,0.61,"Dosing,Administration"
+INT0312,HCP028,NBE002,2024-03-05,Office Visit,32,Positive,15,REP014,0.44,"Dosing,Administration"
+INT0313,HCP077,NBE003,2024-06-12,Office Visit,10,Sample Requested,10,REP013,0.69,Patient Selection
+INT0314,HCP067,NBE004,2024-01-07,Conference,42,Sample Requested,0,REP014,0.4,Reimbursement
+INT0315,HCP076,NBE001,2024-02-24,Conference,54,Positive,0,REP018,0.92,Clinical Trial Results
+INT0316,HCP034,NBE004,2024-12-01,Virtual Meeting,41,Sample Requested,0,REP006,0.49,"Dosing,Administration"
+INT0317,HCP080,NBE004,2024-01-20,Virtual Meeting,26,Neutral,0,REP024,0.63,Patient Selection
+INT0318,HCP048,NBE001,2024-06-21,Email,24,Needs Follow-up,5,REP023,0.78,"Dosing,Administration"
+INT0319,HCP018,NBE003,2024-08-14,Email,22,Sample Requested,10,REP021,0.36,Clinical Trial Results
+INT0320,HCP028,NBE004,2024-09-05,Conference,60,Needs Follow-up,0,REP017,0.85,"Efficacy,Safety"
+INT0321,HCP040,NBE004,2024-03-10,Conference,41,Positive,0,REP007,0.91,"Dosing,Administration"
+INT0322,HCP008,NBE002,2024-01-17,Virtual Meeting,8,Needs Follow-up,15,REP007,0.49,Clinical Trial Results
+INT0323,HCP065,NBE004,2024-11-21,Office Visit,48,Positive,0,REP012,0.64,Clinical Trial Results
+INT0324,HCP023,NBE004,2024-10-27,Conference,27,Needs Follow-up,0,REP009,0.82,"Efficacy,Safety"
+INT0325,HCP037,NBE001,2024-07-16,Office Visit,15,Neutral,0,REP021,0.46,"Dosing,Administration"
+INT0326,HCP035,NBE004,2024-09-19,Office Visit,60,Positive,5,REP005,0.75,Reimbursement
+INT0327,HCP002,NBE002,2024-05-09,Conference,56,Needs Follow-up,15,REP023,0.75,Clinical Trial Results
+INT0328,HCP049,NBE003,2024-08-23,Email,18,Sample Requested,0,REP022,0.66,Reimbursement
+INT0329,HCP051,NBE001,2024-01-04,Conference,47,Needs Follow-up,10,REP021,0.72,Patient Selection
+INT0330,HCP039,NBE001,2024-09-03,Office Visit,26,Needs Follow-up,15,REP011,0.9,Patient Selection
+INT0331,HCP084,NBE003,2024-04-06,Phone Call,38,Neutral,0,REP020,0.58,Patient Selection
+INT0332,HCP088,NBE002,2024-01-14,Virtual Meeting,23,Needs Follow-up,5,REP013,0.57,"Efficacy,Safety"
+INT0333,HCP075,NBE002,2024-06-24,Phone Call,48,Sample Requested,15,REP012,0.66,"Dosing,Administration"
+INT0334,HCP085,NBE002,2024-05-30,Office Visit,35,Neutral,15,REP009,0.81,Reimbursement
+INT0335,HCP098,NBE002,2024-12-14,Email,46,Positive,0,REP012,0.46,Patient Selection
+INT0336,HCP054,NBE003,2024-07-09,Email,42,Needs Follow-up,5,REP004,0.63,Reimbursement
+INT0337,HCP075,NBE001,2024-08-29,Phone Call,37,Positive,15,REP013,0.67,Clinical Trial Results
+INT0338,HCP007,NBE002,2024-03-11,Phone Call,26,Sample Requested,10,REP015,0.4,"Dosing,Administration"
+INT0339,HCP100,NBE001,2024-09-06,Email,45,Neutral,0,REP021,0.34,Clinical Trial Results
+INT0340,HCP036,NBE002,2024-03-27,Conference,53,Neutral,5,REP025,0.85,"Dosing,Administration"
+INT0341,HCP079,NBE004,2024-11-20,Virtual Meeting,30,Sample Requested,5,REP013,0.3,Reimbursement
+INT0342,HCP026,NBE003,2024-01-08,Email,53,Neutral,0,REP022,0.3,"Dosing,Administration"
+INT0343,HCP029,NBE003,2024-06-08,Phone Call,11,Sample Requested,10,REP019,0.51,"Efficacy,Safety"
+INT0344,HCP006,NBE003,2024-05-28,Virtual Meeting,51,Needs Follow-up,5,REP022,1.0,Patient Selection
+INT0345,HCP063,NBE003,2024-04-06,Phone Call,56,Sample Requested,0,REP008,0.46,"Dosing,Administration"
+INT0346,HCP028,NBE001,2024-10-28,Conference,15,Positive,0,REP023,0.76,"Efficacy,Safety"
+INT0347,HCP049,NBE003,2024-09-30,Conference,8,Positive,15,REP004,0.76,"Efficacy,Safety"
+INT0348,HCP007,NBE001,2024-08-01,Virtual Meeting,29,Positive,10,REP009,0.63,"Dosing,Administration"
+INT0349,HCP027,NBE001,2024-06-03,Virtual Meeting,47,Positive,15,REP017,0.49,Reimbursement
+INT0350,HCP090,NBE002,2024-08-02,Office Visit,37,Positive,0,REP004,0.85,Clinical Trial Results
+INT0351,HCP026,NBE002,2024-05-14,Conference,17,Needs Follow-up,15,REP014,0.51,"Efficacy,Safety"
+INT0352,HCP071,NBE004,2024-04-16,Virtual Meeting,26,Neutral,0,REP001,0.77,"Efficacy,Safety"
+INT0353,HCP074,NBE004,2024-03-17,Office Visit,54,Positive,15,REP024,0.37,Patient Selection
+INT0354,HCP083,NBE002,2024-08-21,Email,21,Sample Requested,0,REP004,0.87,"Efficacy,Safety"
+INT0355,HCP038,NBE003,2024-12-12,Email,32,Positive,0,REP025,0.92,"Efficacy,Safety"
+INT0356,HCP018,NBE002,2024-06-17,Email,33,Needs Follow-up,15,REP003,0.56,Patient Selection
+INT0357,HCP024,NBE001,2024-07-24,Virtual Meeting,34,Needs Follow-up,5,REP023,0.9,Clinical Trial Results
+INT0358,HCP084,NBE002,2024-02-27,Phone Call,49,Positive,0,REP004,0.59,Reimbursement
+INT0359,HCP062,NBE004,2024-04-02,Conference,29,Needs Follow-up,10,REP001,0.9,"Dosing,Administration"
+INT0360,HCP062,NBE004,2024-02-27,Virtual Meeting,33,Positive,0,REP009,0.76,"Efficacy,Safety"
+INT0361,HCP091,NBE002,2024-12-08,Email,38,Positive,5,REP022,0.81,Clinical Trial Results
+INT0362,HCP045,NBE004,2024-03-17,Conference,44,Positive,0,REP021,0.95,Reimbursement
+INT0363,HCP061,NBE004,2024-03-25,Office Visit,53,Sample Requested,0,REP008,0.53,Patient Selection
+INT0364,HCP007,NBE002,2024-10-08,Virtual Meeting,30,Neutral,0,REP015,0.61,Reimbursement
+INT0365,HCP058,NBE001,2024-09-12,Virtual Meeting,25,Positive,5,REP024,0.76,"Efficacy,Safety"
+INT0366,HCP052,NBE004,2024-01-19,Conference,40,Positive,0,REP020,0.97,Patient Selection
+INT0367,HCP066,NBE002,2024-12-01,Virtual Meeting,26,Needs Follow-up,0,REP008,0.89,Patient Selection
+INT0368,HCP072,NBE004,2025-01-01,Email,50,Sample Requested,0,REP004,0.83,"Dosing,Administration"
+INT0369,HCP001,NBE003,2024-06-30,Email,40,Needs Follow-up,15,REP004,0.33,"Dosing,Administration"
+INT0370,HCP064,NBE002,2024-07-28,Office Visit,21,Neutral,0,REP004,0.95,Clinical Trial Results
+INT0371,HCP028,NBE004,2024-04-07,Email,11,Sample Requested,0,REP021,0.89,Reimbursement
+INT0372,HCP016,NBE004,2024-08-22,Conference,37,Neutral,5,REP001,0.67,"Efficacy,Safety"
+INT0373,HCP071,NBE004,2024-10-26,Virtual Meeting,37,Neutral,15,REP019,0.42,"Dosing,Administration"
+INT0374,HCP014,NBE004,2024-12-02,Conference,43,Needs Follow-up,10,REP013,0.59,Reimbursement
+INT0375,HCP089,NBE002,2024-05-20,Virtual Meeting,26,Needs Follow-up,5,REP005,0.4,Reimbursement
+INT0376,HCP090,NBE003,2024-12-25,Conference,60,Needs Follow-up,15,REP024,0.95,"Dosing,Administration"
+INT0377,HCP026,NBE002,2024-11-15,Email,48,Needs Follow-up,15,REP005,0.99,"Dosing,Administration"
+INT0378,HCP065,NBE003,2024-12-29,Office Visit,53,Needs Follow-up,10,REP016,0.71,Clinical Trial Results
+INT0379,HCP087,NBE003,2024-08-04,Office Visit,38,Positive,0,REP013,0.4,"Efficacy,Safety"
+INT0380,HCP026,NBE003,2024-03-23,Email,48,Needs Follow-up,0,REP002,0.78,Patient Selection
+INT0381,HCP027,NBE001,2024-07-02,Virtual Meeting,11,Neutral,15,REP021,0.69,"Dosing,Administration"
+INT0382,HCP066,NBE003,2024-12-20,Office Visit,29,Sample Requested,5,REP022,0.52,Reimbursement
+INT0383,HCP007,NBE001,2024-05-08,Phone Call,44,Sample Requested,0,REP021,0.79,Patient Selection
+INT0384,HCP097,NBE002,2024-04-09,Email,33,Neutral,15,REP003,0.43,"Dosing,Administration"
+INT0385,HCP095,NBE001,2024-07-12,Office Visit,32,Needs Follow-up,10,REP009,0.39,Reimbursement
+INT0386,HCP033,NBE001,2024-06-18,Virtual Meeting,50,Neutral,0,REP005,0.95,Reimbursement
+INT0387,HCP007,NBE003,2024-09-08,Conference,40,Needs Follow-up,0,REP023,0.52,"Dosing,Administration"
+INT0388,HCP024,NBE001,2024-09-15,Phone Call,31,Sample Requested,0,REP012,0.45,"Dosing,Administration"
+INT0389,HCP085,NBE003,2024-06-18,Email,23,Neutral,10,REP017,0.63,Reimbursement
+INT0390,HCP097,NBE001,2024-02-28,Email,33,Neutral,15,REP020,0.94,"Dosing,Administration"
+INT0391,HCP006,NBE003,2024-07-14,Office Visit,29,Needs Follow-up,10,REP024,0.5,Reimbursement
+INT0392,HCP099,NBE003,2024-09-20,Conference,33,Sample Requested,0,REP010,0.93,"Dosing,Administration"
+INT0393,HCP042,NBE001,2024-02-19,Phone Call,54,Positive,15,REP003,0.45,"Dosing,Administration"
+INT0394,HCP088,NBE004,2024-02-23,Phone Call,39,Sample Requested,15,REP003,0.82,"Dosing,Administration"
+INT0395,HCP004,NBE004,2024-06-18,Office Visit,10,Positive,0,REP006,0.86,Reimbursement
+INT0396,HCP010,NBE002,2024-05-12,Virtual Meeting,29,Sample Requested,15,REP013,0.6,"Efficacy,Safety"
+INT0397,HCP050,NBE001,2024-09-30,Office Visit,46,Positive,15,REP019,0.33,"Efficacy,Safety"
+INT0398,HCP046,NBE001,2024-05-28,Email,43,Positive,0,REP025,0.95,Clinical Trial Results
+INT0399,HCP051,NBE001,2024-08-30,Phone Call,39,Neutral,0,REP024,0.57,Reimbursement
+INT0400,HCP038,NBE002,2024-06-01,Email,5,Neutral,0,REP002,0.3,Reimbursement
+INT0401,HCP051,NBE001,2024-06-05,Phone Call,52,Needs Follow-up,0,REP014,0.93,Reimbursement
+INT0402,HCP019,NBE002,2024-04-04,Phone Call,44,Needs Follow-up,0,REP004,0.43,Reimbursement
+INT0403,HCP007,NBE004,2024-11-26,Conference,9,Needs Follow-up,15,REP003,0.48,"Dosing,Administration"
+INT0404,HCP093,NBE004,2024-06-18,Email,13,Neutral,0,REP010,0.73,"Dosing,Administration"
+INT0405,HCP041,NBE004,2024-08-18,Email,44,Needs Follow-up,15,REP019,0.41,Reimbursement
+INT0406,HCP047,NBE003,2024-08-07,Phone Call,5,Needs Follow-up,0,REP008,0.8,Clinical Trial Results
+INT0407,HCP036,NBE003,2024-03-09,Email,35,Sample Requested,5,REP012,0.84,Clinical Trial Results
+INT0408,HCP071,NBE001,2024-03-30,Conference,10,Needs Follow-up,0,REP018,0.44,"Efficacy,Safety"
+INT0409,HCP094,NBE001,2024-01-10,Conference,45,Positive,10,REP019,0.58,Reimbursement
+INT0410,HCP028,NBE001,2024-10-09,Email,39,Sample Requested,15,REP025,0.4,Clinical Trial Results
+INT0411,HCP029,NBE003,2024-03-09,Virtual Meeting,37,Positive,5,REP012,0.65,"Dosing,Administration"
+INT0412,HCP079,NBE002,2024-09-20,Phone Call,33,Neutral,0,REP019,0.96,"Dosing,Administration"
+INT0413,HCP095,NBE004,2024-07-02,Office Visit,19,Sample Requested,0,REP003,0.49,"Dosing,Administration"
+INT0414,HCP006,NBE002,2024-09-22,Email,29,Sample Requested,5,REP002,0.33,Patient Selection
+INT0415,HCP014,NBE003,2024-05-14,Conference,39,Neutral,5,REP021,0.56,Reimbursement
+INT0416,HCP084,NBE001,2024-09-21,Email,29,Neutral,10,REP013,0.55,Patient Selection
+INT0417,HCP063,NBE004,2024-11-05,Office Visit,37,Neutral,5,REP006,0.46,Reimbursement
+INT0418,HCP083,NBE003,2024-04-18,Phone Call,16,Neutral,0,REP020,0.8,"Efficacy,Safety"
+INT0419,HCP085,NBE002,2024-07-31,Email,51,Positive,5,REP022,0.64,"Dosing,Administration"
+INT0420,HCP076,NBE002,2024-11-27,Virtual Meeting,6,Neutral,0,REP005,0.7,"Dosing,Administration"
+INT0421,HCP018,NBE001,2024-10-20,Phone Call,8,Neutral,0,REP006,0.66,Clinical Trial Results
+INT0422,HCP077,NBE001,2024-12-04,Email,10,Neutral,5,REP020,0.99,Clinical Trial Results
+INT0423,HCP022,NBE002,2024-07-29,Conference,14,Neutral,10,REP022,0.66,"Dosing,Administration"
+INT0424,HCP093,NBE003,2024-08-20,Conference,42,Positive,0,REP013,0.57,"Efficacy,Safety"
+INT0425,HCP003,NBE002,2024-09-24,Conference,48,Sample Requested,0,REP020,0.37,Clinical Trial Results
+INT0426,HCP079,NBE001,2024-09-29,Conference,53,Positive,0,REP016,0.76,Reimbursement
+INT0427,HCP070,NBE001,2024-12-13,Virtual Meeting,38,Sample Requested,0,REP002,0.79,Clinical Trial Results
+INT0428,HCP030,NBE004,2024-07-14,Email,42,Positive,5,REP005,0.48,"Dosing,Administration"
+INT0429,HCP011,NBE003,2024-11-02,Conference,31,Needs Follow-up,0,REP001,0.8,"Efficacy,Safety"
+INT0430,HCP074,NBE001,2024-09-23,Office Visit,29,Neutral,15,REP011,0.59,"Efficacy,Safety"
+INT0431,HCP020,NBE004,2024-11-29,Conference,21,Needs Follow-up,10,REP014,0.7,Reimbursement
+INT0432,HCP036,NBE004,2024-04-14,Virtual Meeting,40,Sample Requested,0,REP012,0.69,Clinical Trial Results
+INT0433,HCP033,NBE003,2024-10-22,Email,54,Sample Requested,15,REP005,0.9,"Efficacy,Safety"
+INT0434,HCP096,NBE002,2024-08-16,Phone Call,11,Neutral,10,REP013,0.85,Reimbursement
+INT0435,HCP079,NBE001,2024-03-23,Virtual Meeting,45,Positive,0,REP005,0.63,Reimbursement
+INT0436,HCP056,NBE001,2024-02-02,Email,19,Needs Follow-up,0,REP020,0.33,Clinical Trial Results
+INT0437,HCP052,NBE003,2024-12-30,Conference,8,Neutral,15,REP016,0.61,"Dosing,Administration"
+INT0438,HCP085,NBE003,2024-04-09,Office Visit,55,Neutral,10,REP006,0.77,Patient Selection
+INT0439,HCP031,NBE001,2024-03-21,Office Visit,22,Sample Requested,0,REP022,0.58,Reimbursement
+INT0440,HCP026,NBE001,2024-12-26,Office Visit,10,Needs Follow-up,15,REP018,0.94,Patient Selection
+INT0441,HCP045,NBE003,2024-04-25,Conference,17,Sample Requested,5,REP019,0.3,"Dosing,Administration"
+INT0442,HCP053,NBE001,2024-10-13,Office Visit,37,Needs Follow-up,0,REP004,0.86,Patient Selection
+INT0443,HCP069,NBE003,2024-12-21,Virtual Meeting,29,Sample Requested,0,REP025,0.54,Clinical Trial Results
+INT0444,HCP088,NBE004,2024-10-27,Office Visit,35,Positive,0,REP003,0.57,"Dosing,Administration"
+INT0445,HCP087,NBE002,2024-06-10,Virtual Meeting,27,Positive,15,REP009,0.47,"Efficacy,Safety"
+INT0446,HCP052,NBE003,2024-02-08,Conference,16,Sample Requested,0,REP012,0.45,Reimbursement
+INT0447,HCP035,NBE002,2024-12-15,Phone Call,36,Neutral,0,REP024,0.47,Patient Selection
+INT0448,HCP027,NBE002,2024-04-13,Phone Call,58,Needs Follow-up,0,REP025,0.37,"Efficacy,Safety"
+INT0449,HCP087,NBE004,2024-11-10,Office Visit,53,Positive,5,REP012,0.73,Clinical Trial Results
+INT0450,HCP074,NBE003,2024-09-08,Phone Call,53,Needs Follow-up,5,REP008,0.83,"Dosing,Administration"
+INT0451,HCP007,NBE004,2024-09-01,Conference,7,Needs Follow-up,5,REP022,0.84,Clinical Trial Results
+INT0452,HCP016,NBE004,2024-06-10,Office Visit,5,Neutral,5,REP019,0.37,Patient Selection
+INT0453,HCP079,NBE003,2024-04-05,Conference,21,Neutral,0,REP016,0.97,Patient Selection
+INT0454,HCP047,NBE002,2024-09-12,Virtual Meeting,18,Sample Requested,15,REP025,0.56,Clinical Trial Results
+INT0455,HCP036,NBE004,2024-04-02,Conference,13,Neutral,0,REP024,0.49,"Dosing,Administration"
+INT0456,HCP072,NBE004,2024-07-14,Phone Call,14,Neutral,5,REP001,0.42,Clinical Trial Results
+INT0457,HCP018,NBE003,2024-09-06,Email,21,Positive,5,REP004,0.78,"Efficacy,Safety"
+INT0458,HCP028,NBE003,2024-08-31,Office Visit,33,Needs Follow-up,0,REP012,0.55,Reimbursement
+INT0459,HCP033,NBE003,2024-01-11,Virtual Meeting,12,Needs Follow-up,15,REP020,0.44,Reimbursement
+INT0460,HCP084,NBE002,2024-05-25,Email,25,Sample Requested,15,REP015,0.92,Clinical Trial Results
+INT0461,HCP079,NBE003,2024-08-25,Phone Call,60,Neutral,15,REP011,0.6,Reimbursement
+INT0462,HCP074,NBE004,2024-02-06,Office Visit,15,Needs Follow-up,0,REP011,0.52,Patient Selection
+INT0463,HCP091,NBE003,2024-11-05,Virtual Meeting,22,Sample Requested,0,REP024,0.71,Clinical Trial Results
+INT0464,HCP053,NBE002,2024-04-04,Office Visit,13,Neutral,15,REP009,0.96,"Efficacy,Safety"
+INT0465,HCP027,NBE002,2024-07-22,Office Visit,11,Positive,5,REP018,0.34,Clinical Trial Results
+INT0466,HCP068,NBE001,2024-02-23,Email,44,Neutral,0,REP021,0.95,Clinical Trial Results
+INT0467,HCP040,NBE002,2024-05-06,Email,33,Neutral,0,REP017,0.89,"Efficacy,Safety"
+INT0468,HCP005,NBE003,2024-06-15,Virtual Meeting,34,Needs Follow-up,10,REP015,0.39,Reimbursement
+INT0469,HCP023,NBE004,2024-11-19,Conference,32,Needs Follow-up,0,REP016,0.68,"Efficacy,Safety"
+INT0470,HCP057,NBE003,2024-07-06,Virtual Meeting,21,Neutral,0,REP001,0.3,"Dosing,Administration"
+INT0471,HCP045,NBE003,2024-08-28,Conference,5,Sample Requested,5,REP010,0.31,Clinical Trial Results
+INT0472,HCP038,NBE002,2024-01-04,Conference,28,Neutral,5,REP018,0.61,"Dosing,Administration"
+INT0473,HCP021,NBE004,2024-07-12,Phone Call,21,Positive,5,REP021,0.47,Reimbursement
+INT0474,HCP089,NBE003,2024-05-25,Conference,56,Needs Follow-up,5,REP007,0.9,"Dosing,Administration"
+INT0475,HCP018,NBE003,2024-02-26,Virtual Meeting,44,Sample Requested,0,REP023,0.74,"Dosing,Administration"
+INT0476,HCP042,NBE001,2024-03-18,Office Visit,39,Positive,0,REP004,0.5,"Dosing,Administration"
+INT0477,HCP092,NBE004,2024-01-05,Phone Call,10,Neutral,0,REP016,0.45,Clinical Trial Results
+INT0478,HCP040,NBE004,2024-07-09,Virtual Meeting,49,Positive,0,REP003,0.89,"Dosing,Administration"
+INT0479,HCP008,NBE003,2024-07-19,Office Visit,39,Sample Requested,0,REP007,0.93,Patient Selection
+INT0480,HCP049,NBE001,2024-03-03,Phone Call,29,Sample Requested,0,REP024,1.0,"Dosing,Administration"
+INT0481,HCP059,NBE001,2024-09-23,Phone Call,35,Sample Requested,15,REP010,0.96,"Dosing,Administration"
+INT0482,HCP081,NBE001,2024-10-08,Conference,12,Needs Follow-up,5,REP021,0.51,Patient Selection
+INT0483,HCP007,NBE002,2024-02-27,Phone Call,45,Sample Requested,0,REP001,0.42,Patient Selection
+INT0484,HCP075,NBE001,2024-07-21,Phone Call,5,Positive,10,REP023,0.63,Reimbursement
+INT0485,HCP020,NBE003,2024-02-15,Phone Call,15,Sample Requested,0,REP022,0.73,"Efficacy,Safety"
+INT0486,HCP008,NBE003,2024-11-26,Phone Call,49,Positive,0,REP016,0.46,Reimbursement
+INT0487,HCP083,NBE003,2024-08-12,Phone Call,6,Sample Requested,0,REP024,0.39,"Efficacy,Safety"
+INT0488,HCP063,NBE004,2024-10-13,Email,39,Sample Requested,0,REP019,0.43,Patient Selection
+INT0489,HCP042,NBE004,2024-05-20,Conference,60,Neutral,0,REP017,0.41,Patient Selection
+INT0490,HCP034,NBE003,2024-08-20,Office Visit,54,Sample Requested,15,REP006,0.92,Reimbursement
+INT0491,HCP047,NBE002,2024-06-13,Office Visit,47,Sample Requested,0,REP017,0.78,Reimbursement
+INT0492,HCP020,NBE003,2024-06-14,Virtual Meeting,46,Needs Follow-up,0,REP004,0.67,"Efficacy,Safety"
+INT0493,HCP006,NBE002,2024-04-01,Office Visit,17,Positive,5,REP007,0.37,Reimbursement
+INT0494,HCP083,NBE004,2024-12-02,Virtual Meeting,38,Needs Follow-up,0,REP012,0.45,"Efficacy,Safety"
+INT0495,HCP002,NBE002,2024-12-01,Virtual Meeting,58,Positive,5,REP021,0.34,Reimbursement
+INT0496,HCP096,NBE004,2024-07-07,Office Visit,57,Needs Follow-up,10,REP002,0.81,Patient Selection
+INT0497,HCP010,NBE002,2024-09-22,Office Visit,11,Neutral,10,REP013,0.43,Reimbursement
+INT0498,HCP085,NBE002,2024-10-18,Phone Call,40,Sample Requested,15,REP004,0.84,Reimbursement
+INT0499,HCP046,NBE004,2024-12-25,Virtual Meeting,11,Neutral,0,REP018,0.58,Patient Selection
+INT0500,HCP085,NBE002,2024-09-30,Conference,33,Needs Follow-up,0,REP018,0.99,Patient Selection

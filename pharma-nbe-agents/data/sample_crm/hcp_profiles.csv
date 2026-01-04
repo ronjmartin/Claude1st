@@ -1,0 +1,101 @@
+hcp_id,name,specialty,practice_type,territory,patient_volume,years_in_practice,academic_affiliation,preferred_contact_method,tier
+HCP001,Dr. B. Smith 1,Oncology,Hospital,Midwest,175,15,True,In-Person,A
+HCP002,Dr. C. Smith 2,Rheumatology,Hospital,West,266,3,True,Email,A
+HCP003,Dr. D. Smith 3,Cardiology,Hospital,West,151,35,False,Email,B
+HCP004,Dr. E. Smith 4,Rheumatology,Academic Medical Center,Northeast,438,11,False,Phone,B
+HCP005,Dr. F. Smith 5,Cardiology,Private Practice,Midwest,102,6,False,Email,B
+HCP006,Dr. G. Smith 6,Neurology,Academic Medical Center,Northeast,423,30,True,Phone,A
+HCP007,Dr. H. Smith 7,Rheumatology,Academic Medical Center,West,491,24,True,In-Person,A
+HCP008,Dr. I. Smith 8,Oncology,Private Practice,Midwest,90,15,True,Phone,B
+HCP009,Dr. J. Smith 9,Immunology,Academic Medical Center,Southeast,239,23,True,In-Person,B
+HCP010,Dr. K. Smith 10,Oncology,Private Practice,West,423,16,True,Phone,B
+HCP011,Dr. L. Smith 11,Neurology,Private Practice,Midwest,481,4,True,Email,B
+HCP012,Dr. M. Smith 12,Immunology,Academic Medical Center,Northeast,158,21,True,In-Person,B
+HCP013,Dr. N. Smith 13,Immunology,Clinic,Southeast,185,9,True,In-Person,C
+HCP014,Dr. O. Smith 14,Rheumatology,Academic Medical Center,West,269,26,False,Email,A
+HCP015,Dr. P. Smith 15,Rheumatology,Clinic,Northeast,436,4,True,Email,C
+HCP016,Dr. Q. Smith 16,Cardiology,Clinic,West,82,25,False,In-Person,B
+HCP017,Dr. R. Smith 17,Rheumatology,Academic Medical Center,West,490,1,True,In-Person,C
+HCP018,Dr. S. Smith 18,Neurology,Academic Medical Center,Northeast,200,28,True,Phone,A
+HCP019,Dr. T. Smith 19,Neurology,Private Practice,West,104,20,True,Email,B
+HCP020,Dr. U. Smith 20,Cardiology,Hospital,West,215,32,True,Email,B
+HCP021,Dr. V. Smith 21,Neurology,Private Practice,Northeast,173,6,True,In-Person,B
+HCP022,Dr. W. Smith 22,Oncology,Private Practice,Southeast,387,31,True,Phone,C
+HCP023,Dr. X. Smith 23,Rheumatology,Clinic,Southeast,326,13,False,Phone,C
+HCP024,Dr. Y. Smith 24,Neurology,Clinic,West,281,8,True,Email,A
+HCP025,Dr. Z. Smith 25,Neurology,Hospital,West,333,15,True,Email,A
+HCP026,Dr. A. Smith 26,Oncology,Private Practice,Northeast,66,22,True,In-Person,A
+HCP027,Dr. B. Smith 27,Neurology,Clinic,Southeast,326,9,False,Email,B
+HCP028,Dr. C. Smith 28,Immunology,Private Practice,Northeast,99,28,False,Phone,B
+HCP029,Dr. D. Smith 29,Immunology,Hospital,Northeast,81,26,False,Email,A
+HCP030,Dr. E. Smith 30,Cardiology,Private Practice,West,279,9,False,Email,B
+HCP031,Dr. F. Smith 31,Immunology,Private Practice,Northeast,276,7,True,In-Person,C
+HCP032,Dr. G. Smith 32,Oncology,Hospital,Southeast,135,27,False,Phone,A
+HCP033,Dr. H. Smith 33,Immunology,Hospital,Southeast,244,1,False,Phone,B
+HCP034,Dr. I. Smith 34,Neurology,Clinic,West,388,32,True,Email,B
+HCP035,Dr. J. Smith 35,Cardiology,Hospital,West,426,35,True,In-Person,B
+HCP036,Dr. K. Smith 36,Oncology,Hospital,West,294,33,True,Email,C
+HCP037,Dr. L. Smith 37,Oncology,Private Practice,Northeast,354,5,True,Phone,A
+HCP038,Dr. M. Smith 38,Rheumatology,Private Practice,West,354,3,True,Phone,C
+HCP039,Dr. N. Smith 39,Rheumatology,Academic Medical Center,Midwest,154,21,True,Phone,B
+HCP040,Dr. O. Smith 40,Cardiology,Academic Medical Center,Southwest,211,5,True,Phone,C
+HCP041,Dr. P. Smith 41,Rheumatology,Hospital,Northeast,325,14,False,Email,B
+HCP042,Dr. Q. Smith 42,Oncology,Private Practice,Midwest,195,11,False,In-Person,C
+HCP043,Dr. R. Smith 43,Neurology,Hospital,West,203,7,True,Phone,A
+HCP044,Dr. S. Smith 44,Oncology,Private Practice,Midwest,194,14,False,Email,C
+HCP045,Dr. T. Smith 45,Neurology,Clinic,Midwest,483,4,True,In-Person,B
+HCP046,Dr. U. Smith 46,Neurology,Hospital,Northeast,220,9,False,Email,C
+HCP047,Dr. V. Smith 47,Immunology,Clinic,West,54,8,True,In-Person,A
+HCP048,Dr. W. Smith 48,Rheumatology,Hospital,Midwest,348,10,False,Email,A
+HCP049,Dr. X. Smith 49,Neurology,Academic Medical Center,Northeast,233,14,True,In-Person,A
+HCP050,Dr. Y. Smith 50,Neurology,Clinic,West,433,10,True,Email,A
+HCP051,Dr. Z. Smith 51,Immunology,Hospital,Southeast,427,22,False,In-Person,C
+HCP052,Dr. A. Smith 52,Cardiology,Academic Medical Center,Southeast,453,7,False,Email,B
+HCP053,Dr. B. Smith 53,Cardiology,Private Practice,Southwest,229,20,True,Email,A
+HCP054,Dr. C. Smith 54,Cardiology,Clinic,Midwest,192,5,False,Phone,C
+HCP055,Dr. D. Smith 55,Rheumatology,Clinic,West,219,2,True,Phone,A
+HCP056,Dr. E. Smith 56,Rheumatology,Academic Medical Center,Northeast,105,28,False,In-Person,B
+HCP057,Dr. F. Smith 57,Immunology,Hospital,Southwest,345,13,False,Email,C
+HCP058,Dr. G. Smith 58,Immunology,Hospital,West,462,35,True,Phone,B
+HCP059,Dr. H. Smith 59,Oncology,Academic Medical Center,West,210,8,False,In-Person,B
+HCP060,Dr. I. Smith 60,Immunology,Academic Medical Center,Southwest,406,19,True,Email,B
+HCP061,Dr. J. Smith 61,Immunology,Private Practice,West,341,20,False,In-Person,A
+HCP062,Dr. K. Smith 62,Neurology,Academic Medical Center,Southeast,270,21,False,Phone,B
+HCP063,Dr. L. Smith 63,Cardiology,Clinic,Southeast,387,6,False,In-Person,C
+HCP064,Dr. M. Smith 64,Rheumatology,Academic Medical Center,Northeast,469,16,False,Email,A
+HCP065,Dr. N. Smith 65,Cardiology,Hospital,Northeast,175,31,True,Phone,B
+HCP066,Dr. O. Smith 66,Rheumatology,Private Practice,Southwest,303,26,True,Email,C
+HCP067,Dr. P. Smith 67,Oncology,Hospital,Southwest,162,12,False,Email,C
+HCP068,Dr. Q. Smith 68,Cardiology,Hospital,Southwest,118,30,False,Phone,C
+HCP069,Dr. R. Smith 69,Rheumatology,Clinic,West,278,11,False,Phone,B
+HCP070,Dr. S. Smith 70,Cardiology,Academic Medical Center,West,298,16,False,Phone,A
+HCP071,Dr. T. Smith 71,Neurology,Private Practice,Midwest,221,21,True,Email,A
+HCP072,Dr. U. Smith 72,Cardiology,Clinic,Southeast,411,14,True,Phone,B
+HCP073,Dr. V. Smith 73,Neurology,Clinic,Southwest,81,14,False,Phone,C
+HCP074,Dr. W. Smith 74,Oncology,Clinic,Southwest,53,23,False,Phone,B
+HCP075,Dr. X. Smith 75,Rheumatology,Private Practice,Southwest,162,18,False,Phone,A
+HCP076,Dr. Y. Smith 76,Immunology,Academic Medical Center,Southwest,420,11,False,Email,C
+HCP077,Dr. Z. Smith 77,Rheumatology,Hospital,Southwest,353,2,True,In-Person,B
+HCP078,Dr. A. Smith 78,Cardiology,Clinic,Southeast,75,17,False,Phone,A
+HCP079,Dr. B. Smith 79,Immunology,Academic Medical Center,Midwest,439,25,False,Phone,B
+HCP080,Dr. C. Smith 80,Oncology,Clinic,Northeast,433,35,True,Phone,A
+HCP081,Dr. D. Smith 81,Oncology,Hospital,Northeast,176,13,True,In-Person,A
+HCP082,Dr. E. Smith 82,Cardiology,Private Practice,Southwest,392,8,True,Phone,C
+HCP083,Dr. F. Smith 83,Neurology,Academic Medical Center,Southeast,360,8,True,Phone,A
+HCP084,Dr. G. Smith 84,Rheumatology,Hospital,Midwest,344,25,False,In-Person,A
+HCP085,Dr. H. Smith 85,Oncology,Private Practice,Northeast,406,20,True,In-Person,A
+HCP086,Dr. I. Smith 86,Neurology,Clinic,Midwest,85,33,False,Email,B
+HCP087,Dr. J. Smith 87,Immunology,Hospital,Southwest,235,30,True,Phone,A
+HCP088,Dr. K. Smith 88,Rheumatology,Academic Medical Center,West,463,35,False,Phone,B
+HCP089,Dr. L. Smith 89,Rheumatology,Academic Medical Center,Midwest,486,16,True,Phone,B
+HCP090,Dr. M. Smith 90,Cardiology,Clinic,West,362,25,False,Email,B
+HCP091,Dr. N. Smith 91,Neurology,Private Practice,Southwest,158,23,False,Phone,B
+HCP092,Dr. O. Smith 92,Rheumatology,Academic Medical Center,West,55,34,True,Email,A
+HCP093,Dr. P. Smith 93,Immunology,Clinic,West,438,16,False,In-Person,C
+HCP094,Dr. Q. Smith 94,Immunology,Clinic,Northeast,97,19,True,Phone,C
+HCP095,Dr. R. Smith 95,Cardiology,Academic Medical Center,West,238,31,False,Phone,C
+HCP096,Dr. S. Smith 96,Rheumatology,Academic Medical Center,Midwest,409,30,False,Phone,B
+HCP097,Dr. T. Smith 97,Cardiology,Hospital,Southeast,211,8,True,Email,A
+HCP098,Dr. U. Smith 98,Immunology,Academic Medical Center,West,439,34,False,Email,A
+HCP099,Dr. V. Smith 99,Neurology,Private Practice,Midwest,141,20,True,In-Person,C
+HCP100,Dr. W. Smith 100,Cardiology,Academic Medical Center,Northeast,77,19,True,In-Person,B

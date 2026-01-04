@@ -1,0 +1,5 @@
+product_id,product_name,indication,launch_date,price_per_treatment,target_specialties
+NBE001,Immunex-Alpha,Rheumatoid Arthritis,2023-06-01,5000,"Rheumatology,Immunology"
+NBE002,Cardio-Beta,Heart Failure,2023-09-15,3500,Cardiology
+NBE003,Onco-Gamma,Metastatic Melanoma,2024-01-10,8000,Oncology
+NBE004,Neuro-Delta,Multiple Sclerosis,2023-03-20,6500,Neurology

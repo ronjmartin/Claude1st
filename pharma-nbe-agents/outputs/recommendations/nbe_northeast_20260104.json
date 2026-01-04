@@ -1,0 +1,72 @@
+[
+  {
+    "priority": "high",
+    "urgency": "immediate",
+    "recommended_action": "Schedule virtual meeting to re-establish relationship and present Onco-Gamma clinical updates",
+    "recommended_channel": "Virtual Meeting",
+    "product_focus": "NBE003",
+    "key_message": "Latest Onco-Gamma efficacy data shows improved progression-free survival in metastatic melanoma patients with favorable safety profile",
+    "rationale": "Tier A oncologist with high patient volume (433) has been unengaged for nearly 2 years (715 days) with 0% positive outcomes despite neutral sentiment. Virtual meeting aligns with preferred channel and allows comprehensive clinical discussion to rebuild relationship",
+    "confidence": 0.85,
+    "hcp_id": "HCP080",
+    "hcp_name": "Dr. C. Smith 80",
+    "specialty": "Oncology",
+    "priority_score": 170.9
+  },
+  {
+    "priority": "high",
+    "urgency": "immediate",
+    "recommended_action": "Schedule urgent in-person visit to re-engage and assess current treatment protocols",
+    "recommended_channel": "In-Person",
+    "product_focus": "NBE003",
+    "key_message": "Latest clinical data shows NBE003 achieving superior progression-free survival in metastatic melanoma patients",
+    "rationale": "High-value Tier A oncologist has been out of contact for 443 days with concerning low positive outcome rate (0.14) despite good sentiment. Immediate re-engagement needed to prevent complete relationship deterioration and assess current prescribing patterns for Onco-Gamma",
+    "confidence": 0.92,
+    "hcp_id": "HCP085",
+    "hcp_name": "Dr. H. Smith 85",
+    "specialty": "Oncology",
+    "priority_score": 170.37
+  },
+  {
+    "priority": "high",
+    "urgency": "immediate",
+    "recommended_action": "Schedule urgent re-engagement call to rebuild relationship and assess current MS treatment approach",
+    "recommended_channel": "Phone",
+    "product_focus": "NBE004",
+    "key_message": "Latest Neuro-Delta clinical data shows superior efficacy in relapsing MS patients - let's discuss how this impacts your current treatment protocols",
+    "rationale": "This Tier A neurologist has been out of contact for 15+ months with at-risk status and low positive outcomes (14%). High priority score (167.39) and large patient volume (423) make immediate re-engagement critical. Using preferred phone contact despite email preference to ensure personal connection and rebuild trust.",
+    "confidence": 0.85,
+    "hcp_id": "HCP006",
+    "hcp_name": "Dr. G. Smith 6",
+    "specialty": "Neurology",
+    "priority_score": 167.39
+  },
+  {
+    "priority": "high",
+    "urgency": "immediate",
+    "recommended_action": "Schedule urgent in-person meeting to re-establish relationship and present Onco-Gamma clinical updates",
+    "recommended_channel": "In-Person",
+    "product_focus": "NBE003",
+    "key_message": "Latest Onco-Gamma efficacy data shows 40% improvement in progression-free survival for metastatic melanoma patients versus standard care",
+    "rationale": "Tier A oncologist has been out of contact for 13+ months with zero positive outcomes and at-risk status. High patient volume (354) represents significant opportunity. Despite phone preference, office visit is their preferred engagement channel and necessary for relationship recovery",
+    "confidence": 0.92,
+    "hcp_id": "HCP037",
+    "hcp_name": "Dr. L. Smith 37",
+    "specialty": "Oncology",
+    "priority_score": 163.27
+  },
+  {
+    "priority": "high",
+    "urgency": "immediate",
+    "recommended_action": "Send re-engagement email with latest Immunex-Alpha efficacy data and offer virtual consultation",
+    "recommended_channel": "Email",
+    "product_focus": "NBE001",
+    "key_message": "New 24-month real-world evidence shows Immunex-Alpha achieves 78% remission rates in RA patients - let's discuss how this impacts your treatment protocols",
+    "rationale": "HCP is at-risk with 406 days since last contact despite being Tier A with high patient volume. Academic setting suggests interest in latest research data. Email preference and positive sentiment (0.71) indicate receptive to evidence-based outreach",
+    "confidence": 0.85,
+    "hcp_id": "HCP064",
+    "hcp_name": "Dr. M. Smith 64",
+    "specialty": "Rheumatology",
+    "priority_score": 161.1
+  }
+]

@@ -1,0 +1,6 @@
+territory_id,territory_name,region,hcp_count,rep_count,quarterly_target
+T01,Northeast,US,22,3,525722
+T02,Southeast,US,15,7,1096302
+T03,Midwest,US,17,6,1503936
+T04,Southwest,US,15,6,1214512
+T05,West,US,31,4,607744
